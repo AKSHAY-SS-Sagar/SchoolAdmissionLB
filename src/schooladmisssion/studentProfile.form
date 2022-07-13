@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace min="-2" pref="35" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Component id="lbldisablilities" max="32767" attributes="0"/>
+                  <Component id="lblmothertoung" max="32767" attributes="0"/>
+                  <Component id="lblcaste" max="32767" attributes="0"/>
+                  <Component id="lblreligion" max="32767" attributes="0"/>
+                  <Component id="lblpphono" max="32767" attributes="0"/>
+                  <Component id="lblsphono" max="32767" attributes="0"/>
+                  <Component id="lbladdresscorrespondance" pref="174" max="32767" attributes="0"/>
+                  <Component id="lbladdress" max="32767" attributes="0"/>
+                  <Component id="lblannualincome" max="32767" attributes="0"/>
+                  <Component id="lblgaddress" max="32767" attributes="0"/>
+                  <Component id="lblgname" max="32767" attributes="0"/>
+                  <Component id="lblmaadhar" max="32767" attributes="0"/>
+                  <Component id="lblmoccupation" max="32767" attributes="0"/>
+                  <Component id="lblmqualification" max="32767" attributes="0"/>
+                  <Component id="lblmname" max="32767" attributes="0"/>
+                  <Component id="lblfaadhar" alignment="0" max="32767" attributes="0"/>
+                  <Component id="lblfoccupation" alignment="0" max="32767" attributes="0"/>
+                  <Component id="lblfqualification" alignment="0" max="32767" attributes="0"/>
+                  <Component id="lblfname" alignment="0" max="32767" attributes="0"/>
+                  <Component id="lblsaadhar" alignment="0" max="32767" attributes="0"/>
+                  <Component id="lblgender" alignment="0" max="32767" attributes="0"/>
+                  <Component id="lbladdno" alignment="1" max="32767" attributes="0"/>
+                  <Component id="lbldob" alignment="0" max="32767" attributes="0"/>
+                  <Component id="lblname" alignment="0" max="32767" attributes="0"/>
+                  <Component id="lblsatsno" alignment="0" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Component id="txtsatsno" min="-2" pref="175" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jScrollPane1" min="-2" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                              <Component id="txtfoccupation" max="32767" attributes="0"/>
+                              <Component id="txtgender" alignment="0" max="32767" attributes="0"/>
+                              <Component id="txtaddno" max="32767" attributes="0"/>
+                              <Component id="txtdob" alignment="0" max="32767" attributes="0"/>
+                              <Component id="txtname" alignment="0" max="32767" attributes="0"/>
+                              <Component id="txtsaadhar" max="32767" attributes="0"/>
+                              <Component id="txtfname" max="32767" attributes="0"/>
+                              <Component id="txtfqualification" max="32767" attributes="0"/>
+                              <Component id="txtfaadhar" max="32767" attributes="0"/>
+                              <Component id="txtmname" pref="175" max="32767" attributes="0"/>
+                              <Component id="txtmqualification" max="32767" attributes="0"/>
+                              <Component id="txtmoccupation" max="32767" attributes="0"/>
+                              <Component id="txtmaadhar" max="32767" attributes="0"/>
+                              <Component id="txtgname" max="32767" attributes="0"/>
+                          </Group>
+                          <Component id="txtannualincome" alignment="0" min="-2" pref="175" max="-2" attributes="0"/>
+                          <Component id="jScrollPane2" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jScrollPane3" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
+                              <Component id="txtdisablities" alignment="0" pref="175" max="32767" attributes="0"/>
+                              <Component id="txtmothertoung" alignment="0" max="32767" attributes="0"/>
+                              <Component id="txtcaste" alignment="0" max="32767" attributes="0"/>
+                              <Component id="txtreligion" alignment="0" max="32767" attributes="0"/>
+                              <Component id="txtpphono" alignment="0" max="32767" attributes="0"/>
+                              <Component id="txtsphono" alignment="0" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="83" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="114" max="-2" attributes="0"/>
+              <Component id="btnupdatestudentprofile" min="-2" pref="160" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblsatsno" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="txtsatsno" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lbladdno" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="txtaddno" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblname" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="txtname" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="lbldob" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="4" pref="4" max="-2" attributes="0"/>
+                      <Component id="txtdob" min="-2" pref="30" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="lblgender" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="txtgender" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblsaadhar" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="txtsaadhar" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblfname" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="txtfname" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblfqualification" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="txtfqualification" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblfoccupation" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="txtfoccupation" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblfaadhar" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="txtfaadhar" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblmname" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="txtmname" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblmqualification" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="txtmqualification" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblmoccupation" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="txtmoccupation" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblmaadhar" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="txtmaadhar" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblgname" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="txtgname" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="lblgaddress" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="jScrollPane1" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="txtannualincome" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="lblannualincome" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="lbladdress" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="jScrollPane2" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jScrollPane3" min="-2" max="-2" attributes="0"/>
+                  <Component id="lbladdresscorrespondance" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblsphono" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="txtsphono" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblpphono" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="txtpphono" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblreligion" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="txtreligion" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblcaste" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="txtcaste" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblmothertoung" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="txtmothertoung" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lbldisablilities" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="txtdisablities" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="45" max="-2" attributes="0"/>
+              <Component id="btnupdatestudentprofile" min="-2" pref="35" max="-2" attributes="0"/>
+              <EmptySpace pref="90" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="lblsatsno">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="SAT&apos;s Number"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtsatsno">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtsatsnoActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbladdno">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Addmission Number"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtaddno">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtaddnoActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblname">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Name"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtname">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtnameActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbldob">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Date Of Birth"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtdob">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblgender">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Gender"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtgender">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtgenderActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblsaadhar">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Student Aadhar Number"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtsaadhar">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblfname">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Father&apos;s Name"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtfname">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblfqualification">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Father&apos;s Qualification"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtfqualification">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblfoccupation">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Father&apos;s Occupation"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtfoccupation">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtfoccupationActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblfaadhar">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Father&apos;s Aadhar Namber"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtfaadhar">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblmname">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Mother&apos;s Name"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtmname">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtmnameActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblmqualification">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Mother&apos;s Qualification"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtmqualification">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtmqualificationActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblmoccupation">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Mother&apos;s Occupation"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtmoccupation">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblmaadhar">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Mother&apos;s Aadhar Number"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtmaadhar">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblgname">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Guardian Name"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtgname">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblgaddress">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Guardian Address"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblannualincome">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Annual Income"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtannualincome">
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="tagaddress">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="lbladdress">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Address"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbladdresscorrespondance">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Address For Correspondance"/>
+      </Properties>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="taaddress">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane3">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="taaddresscorrspondance">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="lblsphono">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Student Phone Number"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtsphono">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblpphono">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Parent Phone Number"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtpphono">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtpphonoActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblreligion">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Religion"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtreligion">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblcaste">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Caste"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtcaste">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblmothertoung">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Mother Toung"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtmothertoung">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbldisablilities">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Disablilities"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtdisablities">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnupdatestudentprofile">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Update Student Profile"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnupdatestudentprofileActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>

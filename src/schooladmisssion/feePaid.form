@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="lbladdno" max="32767" attributes="0"/>
+                          <Component id="lblinstallmentno" max="32767" attributes="0"/>
+                          <Component id="lblamountpaid" max="32767" attributes="0"/>
+                          <Component id="lbldate" max="32767" attributes="0"/>
+                          <Component id="lblreciptno" max="32767" attributes="0"/>
+                          <Component id="lblbalanceamount" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txtaddno" pref="100" max="32767" attributes="0"/>
+                          <Component id="txtinstalmentno" alignment="0" max="32767" attributes="0"/>
+                          <Component id="txtamountpaid" alignment="0" max="32767" attributes="0"/>
+                          <Component id="txtdate" max="32767" attributes="0"/>
+                          <Component id="txtreciptnumber" max="32767" attributes="0"/>
+                          <Component id="txtbalanceamount" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="93" max="-2" attributes="0"/>
+                      <Component id="btnaddfeeinfo" min="-2" pref="100" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace pref="139" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="38" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lbladdno" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="txtaddno" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="lblinstallmentno" max="32767" attributes="0"/>
+                  <Component id="txtinstalmentno" pref="30" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="txtamountpaid" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="lblamountpaid" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="lbldate" pref="30" max="32767" attributes="0"/>
+                  <Component id="txtdate" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Component id="lblreciptno" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="txtreciptnumber" min="-2" pref="32" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblbalanceamount" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="txtbalanceamount" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="btnaddfeeinfo" min="-2" pref="35" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="79" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="lbladdno">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Addmission Number"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblinstallmentno">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Instalment Number"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblamountpaid">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Amount Paid"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbldate">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Date"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblreciptno">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Recipt Number"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblbalanceamount">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Balance Amount"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtaddno">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtaddnoActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtinstalmentno">
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtamountpaid">
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtdate">
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtreciptnumber">
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtbalanceamount">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtbalanceamountActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnaddfeeinfo">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Add"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnaddfeeinfoActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>

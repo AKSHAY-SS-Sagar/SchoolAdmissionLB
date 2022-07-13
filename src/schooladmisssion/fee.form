@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="enabled" type="boolean" value="false"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="lblclassto" max="32767" attributes="0"/>
+                          <Component id="lblclassfrom" max="32767" attributes="0"/>
+                          <Component id="lblstaffconcession" max="32767" attributes="0"/>
+                          <Component id="lblcertificate" max="32767" attributes="0"/>
+                          <Component id="lbltc" max="32767" attributes="0"/>
+                          <Component id="lblentery" max="32767" attributes="0"/>
+                          <Component id="lbldevelopment" pref="100" max="32767" attributes="0"/>
+                          <Component id="lblsmartclass" max="32767" attributes="0"/>
+                          <Component id="lblcomputer" max="32767" attributes="0"/>
+                          <Component id="lbltution" max="32767" attributes="0"/>
+                          <Component id="lblapplication" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" min="-2" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txtappication" max="32767" attributes="0"/>
+                          <Component id="txttuition" max="32767" attributes="0"/>
+                          <Component id="txtcomputer" max="32767" attributes="0"/>
+                          <Component id="txtsmartclass" max="32767" attributes="0"/>
+                          <Component id="txtdevelopment" max="32767" attributes="0"/>
+                          <Component id="txtentry" max="32767" attributes="0"/>
+                          <Component id="txttc" max="32767" attributes="0"/>
+                          <Component id="txtcertificate" max="32767" attributes="0"/>
+                          <Component id="txtstaffconcession" max="32767" attributes="0"/>
+                          <Component id="txtclassfrom" alignment="0" max="32767" attributes="0"/>
+                          <Component id="txtclassto" alignment="0" pref="150" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="85" max="-2" attributes="0"/>
+                      <Component id="btnaddstudentinfo" min="-2" pref="140" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace pref="210" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="55" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblapplication" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="txtappication" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lbltution" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="txttuition" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblcomputer" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="txtcomputer" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblsmartclass" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="txtsmartclass" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lbldevelopment" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="txtdevelopment" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblentery" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="txtentry" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lbltc" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="txttc" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblcertificate" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="txtcertificate" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblstaffconcession" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="txtstaffconcession" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="lblclassfrom" pref="30" max="32767" attributes="0"/>
+                  <Component id="txtclassfrom" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="lblclassto" pref="30" max="32767" attributes="0"/>
+                  <Component id="txtclassto" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+              <Component id="btnaddstudentinfo" min="-2" pref="40" max="-2" attributes="0"/>
+              <EmptySpace pref="359" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="lblapplication">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Application Fee"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtappication">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbltution">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Tuition Fee"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txttuition">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblcomputer">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Computer Fee"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtcomputer">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblsmartclass">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Smartclass Fee"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtsmartclass">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbldevelopment">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Development Fee"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtdevelopment">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblentery">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Entery Fee"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtentry">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lbltc">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="TC Fee"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txttc">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblcertificate">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Certificate Fee"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtcertificate">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblstaffconcession">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Staff Concession"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtstaffconcession">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblclassfrom">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Class From"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnaddstudentinfo">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Add Student Info"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnaddstudentinfoActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblclassto">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+        <Property name="text" type="java.lang.String" value="Class To"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtclassfrom">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtclassfromActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtclassto">
+    </Component>
+  </SubComponents>
+</Form>
